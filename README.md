@@ -1,5 +1,5 @@
 # Automated Test Administration and Reporting System for University Students
-#### Video Demo:  <https://www.youtube.com/watch?v=1hGLmxbTXRc&ab_channel=KaraboMatlala>
+#### Video Demo:  <https://youtu.be/1hGLmxbTXRc>
 #### Description: A final project for CS50P in Python, designed to facilitate University students in a csv file **`students.csv`** who are eligible to take a test, enabling them to do so, and upon completion, the program will automatically generate a comprehensive report **`results.csv`** detailing the results.
 
 ### Introduction:
